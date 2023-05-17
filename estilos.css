@@ -1,0 +1,36 @@
+:root {
+  --bg-color: #000000;
+  --text-color: #ffffff;
+  --verde: #daff01;
+  --lilas: #9353ff;
+}
+
+.texto-menor {
+  font-size: 13px;
+  color: var(--text-color);
+}
+
+.divs-facilidades {
+  width: 325px;
+}
+
+.categoria {
+  background-color: var(--bg-color);
+}
+
+.facilidades {
+  background-color: var(--bg-color);
+}
+
+.texto-verde {
+  color: var(--verde);
+}
+
+.rodape {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+}
+
+.vermais {
+  background-color: var(--lilas);
+}
